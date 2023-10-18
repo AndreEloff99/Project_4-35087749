@@ -11,11 +11,48 @@
     {
       "Path": "Main.xaml",
       "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Customers.xaml",
+      "SortBy": 0,
       "VariablesSectionElementsOrder": [
-        "ColumnD&Sequence_16",
-        "ColumnC&Sequence_16",
-        "ColumnB&Sequence_16",
-        "ColumnA&Sequence_16"
+        "Customers&Sequence_27"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OrderDetail.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "OrderDetail&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Orders.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Orders&Sequence_1",
+        "DateFrom&Sequence_1",
+        "DateTo&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Products.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Products&Sequence_1"
       ],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
