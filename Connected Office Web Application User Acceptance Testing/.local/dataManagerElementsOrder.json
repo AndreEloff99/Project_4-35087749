@@ -40,9 +40,9 @@
       "Path": "Orders.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
-        "Orders&Sequence_1",
-        "DateFrom&Sequence_1",
-        "DateTo&Sequence_2"
+        "PostDate&Sequence_1",
+        "DateString&Sequence_1",
+        "Orders&Sequence_1"
       ],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
